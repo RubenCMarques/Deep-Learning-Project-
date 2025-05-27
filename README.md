@@ -14,7 +14,7 @@ We built a complete deep learning pipeline involving data preprocessing, augment
 
 ---
 
-## 📦 Dataset
+## Dataset
 
 - **Source**: BioCLIP Benchmark (Stevens et al.)
 - **Classes**: 202 unique families
@@ -84,5 +84,3 @@ This project demonstrates the power of transfer learning and image augmentation 
 - Gradually unfreeze layers in ResNet50 to improve adaptation
 
 ---
-
-Feel free to ⭐️ the repo if you find this work useful or inspiring!

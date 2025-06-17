@@ -1,6 +1,6 @@
 # Species Classification with Deep Learning
 
-This project tackles the challenge of classifying rare species based on visual data, using deep learning models trained on curated biodiversity images. Our goal was to predict the **family** of a species given its image, using the BioCLIP dataset—a collection of rare species images from the Encyclopedia of Life (EOL) labeled with kingdom, phylum, and family metadata.
+This project tackles the challenge of classifying rare species based on visual data, using deep learning models trained on curated biodiversity images. Our goal was to predict the **family** of a species given its image, using the BioCLIP dataset, a collection of rare species images from the Encyclopedia of Life (EOL) labeled with kingdom, phylum, and family metadata.
 
 We built a complete deep learning pipeline involving data preprocessing, augmentation, class imbalance strategies, transfer learning, and extensive model evaluation.
 
